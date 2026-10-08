@@ -1,0 +1,30 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*_BACKUP/
+*_BACKUP2/
+*_BACKUP_FINAL/
+*_BACKUP_VARIANT_A/
+*_BACKUP_BEFORE_*/
+*_v1/
+*_TEST/
+*_TEST2/
+figures_BACKUP/
